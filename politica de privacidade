@@ -1,0 +1,61 @@
+📜 Política de Privacidade – MyNote
+Última atualização: 17 de junho de 2025
+
+A sua privacidade é uma prioridade para nós. Esta Política de Privacidade descreve como o aplicativo MyNote coleta, usa, armazena e protege suas informações. Ao usar o MyNote, você concorda com os termos aqui apresentados.
+
+1. 📘 Coleta de Dados
+O MyNote não coleta informações pessoais sensíveis automaticamente. No entanto, para fornecer certos recursos, alguns dados podem ser armazenados localmente ou, se aplicável, na nuvem, conforme descrito abaixo:
+
+Dados que podem ser armazenados:
+Anotações criadas pelo usuário (títulos e conteúdo);
+
+Configurações e preferências de tema;
+
+Histórico de alterações e tópicos salvos;
+
+Senha de acesso (quando ativado o bloqueio por senha).
+
+Observação: Nenhuma anotação é enviada a servidores externos sem consentimento.
+
+2. 🔐 Armazenamento e Segurança
+Todas as informações são armazenadas localmente no seu navegador ou dispositivo (usando localStorage ou banco local).
+
+Se você optar por sincronizar com a nuvem (quando disponível), os dados serão criptografados em trânsito e em repouso.
+
+Senhas armazenadas localmente são criptografadas para segurança adicional.
+
+3. 🛠 Uso das Informações
+As informações são usadas exclusivamente para:
+
+Salvar e recuperar suas anotações;
+
+Restaurar preferências do aplicativo;
+
+Proteger o acesso com senha (se ativado por você);
+
+Melhorar a experiência do usuário.
+
+Não usamos seus dados para fins publicitários ou comerciais.
+
+4. 🚫 Compartilhamento com Terceiros
+Não compartilhamos, vendemos ou divulgamos suas informações pessoais com terceiros, exceto quando exigido por lei ou mediante solicitação judicial formal.
+
+5. 🧽 Exclusão de Dados
+Você pode excluir todas as suas anotações e dados do MyNote a qualquer momento:
+
+Usando o botão de "Limpar Dados" nas configurações;
+
+Desinstalando o aplicativo (PWA) ou limpando o cache do navegador.
+
+6. 📲 Cookies e Tecnologias Semelhantes
+O MyNote não utiliza cookies de rastreamento, mas pode usar armazenamento local do navegador (localStorage ou IndexedDB) para manter suas configurações e notas salvas entre sessões.
+
+7. 👤 Direitos do Usuário
+Você tem o direito de:
+
+Acessar seus dados locais;
+
+Corrigir ou apagar suas informações;
+
+Solicitar detalhes sobre como seus dados são utilizados (caso haja uso em nuvem no futuro).
+
