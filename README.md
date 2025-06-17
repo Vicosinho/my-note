@@ -4,10 +4,9 @@
 
 ## 🚀 Funcionalidades
 
-- ✅ Criação e gerenciamento de múltiplas notas com até **14 tópicos simultâneos**
+- ✅ Criação e gerenciamento de múltiplas notas com até **10 tópicos simultâneos**
 - 🎨 Suporte a **temas personalizados** e modo claro/escuro
 - 🔄 Sistema de **histórico de desfazer/refazer**
-- 🔐 Proteção com **senha de acesso**
 - 📁 **Exportação** e **importação** de anotações em `.txt`
 - 💾 Salvamento **automático local**
 - ⌨️ Suporte a **atalhos de teclado** (Ctrl+Z, Ctrl+S, etc.)
